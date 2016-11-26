@@ -1,0 +1,32 @@
+{
+	"dirs_to_ignore":
+	[
+		"Package Control.cache",
+		"Package Control.ca-cert"
+	],
+	"files_to_ignore":
+	[
+		"*.DS_Store",
+		"Package Control.last-run",
+		"Package Control.ca-list",
+		"Package Control.ca-bundle",
+		"Package Control.system-ca-bundle",
+		"PackageSync.sublime-settings"
+	],
+	"files_to_include":
+	[
+		"*.sublime-build",
+		"*.sublime-commands",
+		"*.sublime-completions",
+		"*.sublime-keymap",
+		"*.sublime-menu",
+		"*.sublime-settings",
+		"*.sublime-snippet",
+		"*.sublime-macro",
+		"*.tmLanguage",
+		"*.tmTheme"
+	],
+	"sync": true,
+	"sync_folder": "C:\\Users\\wanghuali1\\iCloudDrive\\sublime_text_2_user_preference",
+	"sync_interval": 1
+}

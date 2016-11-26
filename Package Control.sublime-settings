@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"Apache Hive",
+		"AutoFileName",
+		"BeyondCompare",
+		"BracketHighlighter",
+		"Clipboard History",
+		"ConvertToUTF8",
+		"GBK Encoding Support",
+		"Git",
+		"Package Control",
+		"Package Syncing",
+		"ShowEncoding",
+		"Sublimerge Pro",
+		"TrailingSpaces",
+		"VintageEx"
+	]
+}

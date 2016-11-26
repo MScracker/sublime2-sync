@@ -1,0 +1,127 @@
+{
+    "last_local_data": {
+        "Base File.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\AppData\\Roaming\\Sublime Text 2\\Packages\\User\\Base File.sublime-settings", 
+            "version": 1477366674.3354552
+        }, 
+        "Default (Linux).sublime-keymap": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\AppData\\Roaming\\Sublime Text 2\\Packages\\User\\Default (Linux).sublime-keymap", 
+            "version": 1477216538.0
+        }, 
+        "Default (OSX).sublime-keymap": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\AppData\\Roaming\\Sublime Text 2\\Packages\\User\\Default (OSX).sublime-keymap", 
+            "version": 1477216538.0
+        }, 
+        "Default (Windows).sublime-keymap": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\AppData\\Roaming\\Sublime Text 2\\Packages\\User\\Default (Windows).sublime-keymap", 
+            "version": 1477366470.5110748
+        }, 
+        "Git.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\AppData\\Roaming\\Sublime Text 2\\Packages\\User\\Git.sublime-settings", 
+            "version": 1480163705.6099999
+        }, 
+        "Markdown.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\AppData\\Roaming\\Sublime Text 2\\Packages\\User\\Markdown.sublime-settings", 
+            "version": 1477216538.0
+        }, 
+        "OmniMarkupPreviewer.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\AppData\\Roaming\\Sublime Text 2\\Packages\\User\\OmniMarkupPreviewer.sublime-settings", 
+            "version": 1477216538.0
+        }, 
+        "Package Control.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\AppData\\Roaming\\Sublime Text 2\\Packages\\User\\Package Control.sublime-settings", 
+            "version": 1480159861.3699999
+        }, 
+        "Preferences.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\AppData\\Roaming\\Sublime Text 2\\Packages\\User\\Preferences.sublime-settings", 
+            "version": 1480159862.3699999
+        }, 
+        "SQL Beautifier.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\AppData\\Roaming\\Sublime Text 2\\Packages\\User\\SQL Beautifier.sublime-settings", 
+            "version": 1477216538.0
+        }, 
+        "Sublimerge.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\AppData\\Roaming\\Sublime Text 2\\Packages\\User\\Sublimerge.sublime-settings", 
+            "version": 1478680873.0
+        }, 
+        "trailing_spaces.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\AppData\\Roaming\\Sublime Text 2\\Packages\\User\\trailing_spaces.sublime-settings", 
+            "version": 1477289762.9208393
+        }
+    }, 
+    "last_remote_data": {
+        "Base File.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\iCloudDrive\\sublime_text_2_user_preference\\Base File.sublime-settings", 
+            "version": 1477366674.3354549
+        }, 
+        "Default (Linux).sublime-keymap": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\iCloudDrive\\sublime_text_2_user_preference\\Default (Linux).sublime-keymap", 
+            "version": 1477216538.0
+        }, 
+        "Default (OSX).sublime-keymap": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\iCloudDrive\\sublime_text_2_user_preference\\Default (OSX).sublime-keymap", 
+            "version": 1477216538.0
+        }, 
+        "Default (Windows).sublime-keymap": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\iCloudDrive\\sublime_text_2_user_preference\\Default (Windows).sublime-keymap", 
+            "version": 1477366470.5110741
+        }, 
+        "Git.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\iCloudDrive\\sublime_text_2_user_preference\\Git.sublime-settings", 
+            "version": 1480163705.6099999
+        }, 
+        "Markdown.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\iCloudDrive\\sublime_text_2_user_preference\\Markdown.sublime-settings", 
+            "version": 1477216538.0
+        }, 
+        "OmniMarkupPreviewer.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\iCloudDrive\\sublime_text_2_user_preference\\OmniMarkupPreviewer.sublime-settings", 
+            "version": 1477216538.0
+        }, 
+        "Package Control.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\iCloudDrive\\sublime_text_2_user_preference\\Package Control.sublime-settings", 
+            "version": 1480159861.3699999
+        }, 
+        "Preferences.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\iCloudDrive\\sublime_text_2_user_preference\\Preferences.sublime-settings", 
+            "version": 1480159862.3699999
+        }, 
+        "SQL Beautifier.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\iCloudDrive\\sublime_text_2_user_preference\\SQL Beautifier.sublime-settings", 
+            "version": 1477216538.0
+        }, 
+        "Sublimerge.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\iCloudDrive\\sublime_text_2_user_preference\\Sublimerge.sublime-settings", 
+            "version": 1478680873.0
+        }, 
+        "trailing_spaces.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\wanghuali1\\iCloudDrive\\sublime_text_2_user_preference\\trailing_spaces.sublime-settings", 
+            "version": 1477289762.9208391
+        }
+    }, 
+    "remove_packages": []
+}

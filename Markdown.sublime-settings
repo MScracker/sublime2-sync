@@ -1,0 +1,9 @@
+{
+    "color_scheme": "Packages/Color Scheme - Default/monokai.tmTheme",
+    "extensions":
+    [
+        "md",
+        "mdown"
+    ],
+    "draw_centered": false
+}
